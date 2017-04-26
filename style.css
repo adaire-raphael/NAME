@@ -1,0 +1,68 @@
+#game {
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #000000;
+}
+#loldiv {
+    border-style:dash;
+    width :1000px;
+    color: #000000;
+    margin: 0 auto;
+}
+p {
+color: white}
+
+h1 {
+color: white;
+text-align:center;
+font-size: 200px;}
+.nav-links {
+  display: inline;
+}
+
+#navbar{
+  background-color:000000;
+  height: 60px;
+  text-align:center
+}
+.right {
+  float: right;
+  padding-right:800
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+ font-size: 50px;
+    padding-right: 100px;
+ 
+}
+.nav-links a:hover {
+  color: #000000;
+  background-color: white;
+}
+ 
+.shadow {
+    transition: all 2s;
+    height: 300px;
+}
+
+.shadow:hover {
+    
+    height: 320px;
+    box-shadow: 20px 20px 10px #888888;
+     transition: all 2s;
+}
+a{
+    color: #ffffff
+}      
+.ME{
+    font-size:20px;
+    text-align:center
+}
+
+
+
+    
